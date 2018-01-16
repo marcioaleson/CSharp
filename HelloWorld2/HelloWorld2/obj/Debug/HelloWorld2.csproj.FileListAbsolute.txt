@@ -1,0 +1,7 @@
+C:\Users\marci\source\repos\HelloWorld2\HelloWorld2\bin\Debug\HelloWorld2.exe.config
+C:\Users\marci\source\repos\HelloWorld2\HelloWorld2\bin\Debug\HelloWorld2.exe
+C:\Users\marci\source\repos\HelloWorld2\HelloWorld2\bin\Debug\HelloWorld2.pdb
+C:\Users\marci\source\repos\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.csprojResolveAssemblyReference.cache
+C:\Users\marci\source\repos\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.exe
+C:\Users\marci\source\repos\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.pdb
