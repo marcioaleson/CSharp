@@ -1,0 +1,7 @@
+C:\Users\marci\source\repos\Demo Variables and Constants\Demo Variables and Constants\obj\Debug\Demo Variables and Constants.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\Demo Variables and Constants\Demo Variables and Constants\bin\Debug\Demo Variables and Constants.exe.config
+C:\Users\marci\source\repos\Demo Variables and Constants\Demo Variables and Constants\bin\Debug\Demo Variables and Constants.exe
+C:\Users\marci\source\repos\Demo Variables and Constants\Demo Variables and Constants\bin\Debug\Demo Variables and Constants.pdb
+C:\Users\marci\source\repos\Demo Variables and Constants\Demo Variables and Constants\obj\Debug\Demo Variables and Constants.exe
+C:\Users\marci\source\repos\Demo Variables and Constants\Demo Variables and Constants\obj\Debug\Demo Variables and Constants.pdb
+C:\Users\marci\source\repos\Demo Variables and Constants\Demo Variables and Constants\obj\Debug\Demo Variables and Constants.csprojResolveAssemblyReference.cache
