@@ -1,0 +1,7 @@
+c:\users\marci\source\repos\Demo Operators\Demo Operators\bin\Debug\Demo Operators.exe.config
+c:\users\marci\source\repos\Demo Operators\Demo Operators\bin\Debug\Demo Operators.exe
+c:\users\marci\source\repos\Demo Operators\Demo Operators\bin\Debug\Demo Operators.pdb
+c:\users\marci\source\repos\Demo Operators\Demo Operators\obj\Debug\Demo Operators.csprojResolveAssemblyReference.cache
+c:\users\marci\source\repos\Demo Operators\Demo Operators\obj\Debug\Demo Operators.csproj.CoreCompileInputs.cache
+c:\users\marci\source\repos\Demo Operators\Demo Operators\obj\Debug\Demo Operators.exe
+c:\users\marci\source\repos\Demo Operators\Demo Operators\obj\Debug\Demo Operators.pdb
