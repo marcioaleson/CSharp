@@ -1,0 +1,7 @@
+C:\Users\marci\source\repos\Demo Type Conversion\Demo Type Conversion\bin\Debug\Demo Type Conversion.exe.config
+C:\Users\marci\source\repos\Demo Type Conversion\Demo Type Conversion\bin\Debug\Demo Type Conversion.exe
+C:\Users\marci\source\repos\Demo Type Conversion\Demo Type Conversion\bin\Debug\Demo Type Conversion.pdb
+C:\Users\marci\source\repos\Demo Type Conversion\Demo Type Conversion\obj\Debug\Demo Type Conversion.csprojResolveAssemblyReference.cache
+C:\Users\marci\source\repos\Demo Type Conversion\Demo Type Conversion\obj\Debug\Demo Type Conversion.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\Demo Type Conversion\Demo Type Conversion\obj\Debug\Demo Type Conversion.exe
+C:\Users\marci\source\repos\Demo Type Conversion\Demo Type Conversion\obj\Debug\Demo Type Conversion.pdb
